@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abe2689/jenkins-demo.git"
+  },
+  "author": "Abraham Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abe2689/jenkins-demo/issues"
+  },
+  "homepage": "https://github.com/Abe2689/jenkins-demo#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
